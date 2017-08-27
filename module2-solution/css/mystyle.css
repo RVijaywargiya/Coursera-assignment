@@ -1,1 +1,37 @@
+body{
+	box-sizing: border-box;
+}
 
+h1 {
+	margin-top: 15px;
+	text-align: center;
+}
+
+.container{	
+	margin-top: 50px;	
+}
+
+.block{
+	float: left;
+	border: 2px solid black;
+	color: grey;
+	width: 400px;
+	height: 200px;
+	margin: 0px 10px 0px 10px;	
+}
+
+.sub-heading{
+	margin: 0px 5px 100px 0px;
+	text-align: right;
+	font-family: helvetica;
+	font-weight: bold;
+	font-size: 30px;	
+	border: 2px solid black;
+	position: absolute;
+}
+
+p{
+	margin:10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	position: absolute;
+}
