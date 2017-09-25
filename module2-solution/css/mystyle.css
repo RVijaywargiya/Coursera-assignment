@@ -21,6 +21,7 @@ h1 {
 	height: 200px;
 	margin-left: 20px;
 	margin-right: 10px;
+	background-color: grey;
 }
 
 .inner-block1 {
@@ -30,6 +31,8 @@ h1 {
   border-bottom: 2px solid black;
   border-left: 2px solid black;
   padding: 1px 10px 1px 10px;
+  background-color: pink;
+  font-weight: bold;
 }
 
 p {
@@ -46,7 +49,8 @@ p {
 	left: 30%;
 	margin-top: -200px;
     margin-right: 70px;
-    margin-left: 65px
+    margin-left: 65px;
+    background-color: grey;
 }
 
 .inner-block2 {
@@ -56,6 +60,8 @@ p {
   border-bottom: 2px solid black;
   border-left: 2px solid black;
   padding: 1px 10px 1px 10px;
+  background-color: red;
+  font-weight: bold;
 }
 
 .outer-block3 {
@@ -69,6 +75,7 @@ p {
 	margin-top: -200px;
 	margin-left: 30px;
 	margin-right: 20px;
+	background-color: grey;
 }
 
 .inner-block3 {
@@ -78,4 +85,6 @@ p {
   border-bottom: 2px solid black;
   border-left: 2px solid black;
   padding: 1px 10px 1px 10px;
+  background-color: yellow;
+  font-weight: bold;
 }
